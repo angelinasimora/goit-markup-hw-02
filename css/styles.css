@@ -16,14 +16,9 @@ ul {
 }
 .top-line {
     display: flex;
-    width: 1440px;
-    height: 72px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 
 .logo{
-    width: 115px;
-    height: 24px;
     color: #2e2f42;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -40,13 +35,9 @@ ul {
 
 .navigation{
     font-family: "Roboto", sans-serif;
-    width: 261px;
-    height: 24px;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
-    flex-direction: row;
-    gap: 40px;
 }
 
 .navigation-item{
@@ -88,8 +79,6 @@ ul {
 
 .hero-title{
     background: #2e2f42;
-    width: 1440px;
-    height: 600px;
 }
 
 .hero-text{
@@ -112,8 +101,6 @@ ul {
 }  
 
 .description-section {
-    width: 1128px; 
-    height: 104px;
     display: flex;
     justify-content: space-between;
 }
@@ -122,13 +109,8 @@ ul {
     display: flex;
 }
 .description-row{
-    width: 264px;
-    height: 104px;
     display: flex;
-    align-items: flex-start;
     justify-content: flex-start;
-    flex-direction: column;
-    gap: 8px;
 }
 
 .description-tittle{
@@ -146,18 +128,13 @@ ul {
 }
 
 .our-team{
-    width: 1440px;
-    height: 732px;
     background: #f4f4fd;
     display: flex;
 }
 
 .team-image{
-    display: flex;
-        align-items: center;
+        display: flex;
         justify-content: center;
-        flex-direction: column;
-        gap: 32px;
         background: #fff;
 }
 .title-our-team{
@@ -171,17 +148,7 @@ ul {
 
 .team-list{
     display: flex;
-    align-items: center;
     justify-content: center;
-    flex-direction: column;
-    gap: 32px;
-
-    border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
-    width: 264px;
-    height: 380px;
-
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
 
@@ -205,11 +172,6 @@ ul {
 
 /* Our portfolio */
 
-.our-portfolio{
-    width: 1128px;
-    height: 1000px;
-}
-
 .title-our-portfolio{
     font-weight: 700;
     font-size: 36px;
@@ -220,9 +182,6 @@ ul {
 }
 
 .portfolio-list{
-    width: 1128px;
-    height: 420px;
-    width: 360px;
     display: flex;
 }
 
@@ -245,12 +204,9 @@ ul {
 
 .portfolio-image{
     background: #fff;
-    width: 360px;
 }
 
 .footer{
-    width: 1440px;
-    height: 312px;
     background: #2e2f42;
 }
 
@@ -281,5 +237,4 @@ ul {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     text-align: center;
-    flex-direction: column;
 }
