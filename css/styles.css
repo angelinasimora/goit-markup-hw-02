@@ -12,7 +12,7 @@ ul {
 }
 
 .logo{
-    color: #2e2f42;
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -23,7 +23,7 @@ ul {
 
 .logo-color{
     font-family: "Raleway", sans-serif;
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .navigation{
@@ -116,8 +116,8 @@ ul {
 }
 
 .team-image{
-        justify-content: center;
-        background: #fff;
+    justify-content: center;
+    background: #fff;
 }
 .title-our-team{
     font-weight: 700;
@@ -162,9 +162,6 @@ ul {
     color: #2e2f42;
 }
 
-.portfolio-list{
-    display: flex;
-}
 
 .program-title{
     font-weight: 500;
