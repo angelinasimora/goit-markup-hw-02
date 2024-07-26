@@ -74,7 +74,7 @@ ul {
 .address-row-item:focus{
     color: #404bbf;
 }
-/* Hero page */
+/*Hero page */
 
 .hero-page{
     font-family: "Roboto", sans-serif;
@@ -108,6 +108,8 @@ ul {
     cursor: pointer;
 }
 
+/*Hero page */
+
 /* Section 1 Description */
 .description-section {
     justify-content: space-between;
@@ -136,6 +138,10 @@ ul {
 /* Section 2 Our Team */
 .our-team{
     background: #f4f4fd;
+}
+
+.team-row{
+    background-color: #FFFFFF;
 }
 
 .team-image{
