@@ -64,8 +64,9 @@ ul {
 }
 
 
-.address-row-item:hover{
-    color: #404bbf}
+.address-row-item:hover,:focus{
+    color: #404bbf;
+}
 
 /* Hero page */
 
@@ -75,6 +76,7 @@ ul {
 
 .hero-title{
     background: #2e2f42;
+    line-height: 1.07;
 }
 
 .hero-text{
@@ -112,7 +114,7 @@ ul {
 
 .description-tittle{
     letter-spacing: 0.02em;
-    line-height: 1.07;
+    line-height: 1.2;
     font-weight: 500;
     font-size: 20px;
     color: #2e2f42;
@@ -225,6 +227,7 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
 }
 
 .footer-text{
