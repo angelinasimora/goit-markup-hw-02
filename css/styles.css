@@ -88,7 +88,7 @@ ul {
 .hero-text{
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -141,7 +141,7 @@ ul {
 
 .team-image{
     justify-content: center;
-    background: #fff;
+    background-color: #fff;
 }
 .title-our-team{
     font-weight: 700;
@@ -155,7 +155,7 @@ ul {
 
 .team-list{
     justify-content: center;
-    background: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .team-name{
