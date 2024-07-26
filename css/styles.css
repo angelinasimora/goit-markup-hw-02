@@ -36,7 +36,6 @@ ul {
 }
 
 .navigation-item{
-    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -45,6 +44,10 @@ ul {
 
 .navigation-item:hover{
     color: #404bbf;
+}
+
+.navigation-item:focus{
+    color:#404bbf;  
 }
 
 .address{
@@ -64,10 +67,13 @@ ul {
 }
 
 
-.address-row-item:hover,:focus{
+.address-row-item:hover{
     color: #404bbf;
 }
 
+.address-row-item:focus{
+    color: #404bbf;
+}
 /* Hero page */
 
 .hero-page{
